@@ -2,8 +2,8 @@
 copy Microsoft lockscreen/spotlight wallpaper to desktop
 
 # How to use?
-Step 1: Download wallpapers.bat
-Step 2: Run wallpapers.bat
+Step 1: Download wallpapers.bat \n
+Step 2: Run wallpapers.bat \n
 Step 3: Open MSWallpaper folder on  desktop/homescreen.
 
 # Where are my files? I ran the script!
@@ -24,5 +24,7 @@ No. You can check the source code yourself😉.
 
 # Are you new to github?
 Yes.
+
+Show some love. You can give me a star 😁👍
 
 
