@@ -1,4 +1,4 @@
-# copy-Microsoft-Windows-lockscreen-spotlight-wallpaper-to-desktop
+# copy-Microsoft-Windows-lockscreen-spotlight-wallpaper-to-desktop[batch file]
 copy Windows lockscreen/spotlight wallpaper to desktop
 
 # How to use?
