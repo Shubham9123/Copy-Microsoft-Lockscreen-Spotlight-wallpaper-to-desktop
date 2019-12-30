@@ -1,16 +1,16 @@
-# copy-Microsoft-lockscreen-spotlight-wallpaper-to-desktop
-copy Microsoft lockscreen/spotlight wallpaper to desktop
+# copy-Microsoft-Windows-lockscreen-spotlight-wallpaper-to-desktop
+copy Windows lockscreen/spotlight wallpaper to desktop
 
 # How to use?
 Step 1: Download wallpapers.bat 
 Step 2: Run wallpapers.bat
-Step 3: Open MSWallpaper folder on  desktop/homescreen.
+Step 3: Open MSWallpaper folder on  desktop to view photos.
 
 # Where are my files? I ran the script!
-Files are located on desktop in the folder named. 
+Files are located on desktop in the folder named "MSWallpaper".
 
 # What it does?
-Copies the directory where all Microsoft wallpapers are stored.
+Copies the directory where all Microsoft wallpapers are stored to desktop.
 
 # How it does that?
 1. Deletes any existing directory named "MSWallpaper" on Desktop.
